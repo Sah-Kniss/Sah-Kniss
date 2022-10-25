@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Sah-Kniss 😁
+## Bem-vindo(a) ao perfil do Sah-Kniss! 
 
  <div>
    <a href="https://github.com/Sah-Kniss">
